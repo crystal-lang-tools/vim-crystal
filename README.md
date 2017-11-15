@@ -1,4 +1,4 @@
-Full featured vim support for Crystal
+Full featured Crystal support for VIM
 ========================================================
 
 Please go to original repo: https://github.com/rhysd/vim-crystal
